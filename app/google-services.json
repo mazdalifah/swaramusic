@@ -1,0 +1,381 @@
+{
+  "project_info": {
+    "project_number": "706919177839",
+    "firebase_url": "https://your-name-cdbab.firebaseio.com",
+    "project_id": "your-name-cdbab",
+    "storage_bucket": "your-name-cdbab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706919177839:android:0323f5f62166105b60779a",
+        "android_client_info": {
+          "package_name": "nemosofts.tamilaudiopro.mp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706919177839-au38g050srqcfmn0pg85vionu6pk2817.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nemosofts.tamilaudiopro.mp3",
+            "certificate_hash": "7dda07b489dbea66e39e31011dc3fd62c0d9fb37"
+          }
+        },
+        {
+          "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2c1xmbl_SL120s3z-rGqjTFeFeCQ3S-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706919177839:android:79427fdd2a46958c60779a",
+        "android_client_info": {
+          "package_name": "nemosofts.android.radio.v4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706919177839-bau290klnv5fm7snd8588udsc2e2mbas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nemosofts.android.radio.v4",
+            "certificate_hash": "7dda07b489dbea66e39e31011dc3fd62c0d9fb37"
+          }
+        },
+        {
+          "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2c1xmbl_SL120s3z-rGqjTFeFeCQ3S-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706919177839:android:52d759143747a51b60779a",
+        "android_client_info": {
+          "package_name": "nemosofts.android.ringtone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706919177839-roqts0fb0nmj09i14ucks8edlvrn8sgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nemosofts.android.ringtone",
+            "certificate_hash": "7dda07b489dbea66e39e31011dc3fd62c0d9fb37"
+          }
+        },
+        {
+          "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2c1xmbl_SL120s3z-rGqjTFeFeCQ3S-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706919177839:android:d35c193eaa3a657c60779a",
+        "android_client_info": {
+          "package_name": "nemosofts.jokes.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706919177839-mlg5lg8ujepifbu3krsk5dglcou9vual.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nemosofts.jokes.app",
+            "certificate_hash": "7dda07b489dbea66e39e31011dc3fd62c0d9fb37"
+          }
+        },
+        {
+          "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2c1xmbl_SL120s3z-rGqjTFeFeCQ3S-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706919177839:android:58fabd936c82417860779a",
+        "android_client_info": {
+          "package_name": "nemosofts.live.tv.new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706919177839-q8itovdsejp6gt4g2qj4elf7q9t19qqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nemosofts.live.tv.new",
+            "certificate_hash": "7dda07b489dbea66e39e31011dc3fd62c0d9fb37"
+          }
+        },
+        {
+          "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2c1xmbl_SL120s3z-rGqjTFeFeCQ3S-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706919177839:android:6948730f065b0e0f60779a",
+        "android_client_info": {
+          "package_name": "nemosofts.online.mp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706919177839-srtf1np4mp8l1u2tvad3507e6158hu74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nemosofts.online.mp3",
+            "certificate_hash": "7dda07b489dbea66e39e31011dc3fd62c0d9fb37"
+          }
+        },
+        {
+          "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2c1xmbl_SL120s3z-rGqjTFeFeCQ3S-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706919177839:android:96a054c37500f7bd60779a",
+        "android_client_info": {
+          "package_name": "nemosofts.single.radio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706919177839-occqg33oac48g8g1687gur26oj6n1no1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nemosofts.single.radio",
+            "certificate_hash": "7dda07b489dbea66e39e31011dc3fd62c0d9fb37"
+          }
+        },
+        {
+          "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2c1xmbl_SL120s3z-rGqjTFeFeCQ3S-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706919177839:android:31f4000409847d7b60779a",
+        "android_client_info": {
+          "package_name": "nemosofts.wallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706919177839-fnlplhftusr0bkjagtp1d7db01tfrtge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nemosofts.wallpapers",
+            "certificate_hash": "7dda07b489dbea66e39e31011dc3fd62c0d9fb37"
+          }
+        },
+        {
+          "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2c1xmbl_SL120s3z-rGqjTFeFeCQ3S-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706919177839:android:28037fb45e12f99a60779a",
+        "android_client_info": {
+          "package_name": "nemosofts.youtube.video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706919177839-giegdiknnh4uui4p71a3ovesuphoirp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nemosofts.youtube.video",
+            "certificate_hash": "7dda07b489dbea66e39e31011dc3fd62c0d9fb37"
+          }
+        },
+        {
+          "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2c1xmbl_SL120s3z-rGqjTFeFeCQ3S-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706919177839:android:5e49bb7fa23eead560779a",
+        "android_client_info": {
+          "package_name": "online.radio.nemosofts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706919177839-trjuss76is9ld7mnb9gqgoip8kttj2va.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.radio.nemosofts",
+            "certificate_hash": "7dda07b489dbea66e39e31011dc3fd62c0d9fb37"
+          }
+        },
+        {
+          "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2c1xmbl_SL120s3z-rGqjTFeFeCQ3S-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706919177839-4sv60qvif26ndec247050ik887vrkui7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
